@@ -17,14 +17,15 @@ Script do primeiro desafio do curso Linux do Bootcamp AWS da DIO. Implementa exe
 ### Usuários:
 
 #### Departamento administrativo:
-    carlos;
-    maria;
-    joao;
+    
+   carlos;
+   maria;
+   joao;
     
 #### Departamento de vendas:
-    debora;
-    sebastiana;
-    roberto;
+   debora;
+   sebastiana;
+   roberto;
     
 ## Definições:
   - Todo provisionamento deve ser feito em um arquivo do tipo Bash Script;
